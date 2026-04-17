@@ -1,6 +1,6 @@
 # Ticker Price — Obsidian Plugin
 
-Automatically fetches and displays stock prices for `$TICKER` symbols in your notes. No API key required — uses Yahoo Finance.
+Automatically fetches and displays stock prices for `$TICKER` symbols in your notes. No API key required, uses Yahoo Finance.
 
 ## Features
 
