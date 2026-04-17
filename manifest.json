@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-ticker-price",
+  "name": "Ticker Price",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically fetches and displays stock prices inline for $TICKER symbols. Supports live prices or price-at-time-of-writing.",
+  "author": "Alejandro Spradley",
+  "authorUrl": "https://github.com/irl-Spradley",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
